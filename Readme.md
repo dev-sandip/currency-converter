@@ -8,6 +8,12 @@ This project is a simple currency converter written in Go. It allows users to co
 - Fetch real-time exchange rates
 - Simple and easy-to-use interface
 
+
+
+https://github.com/user-attachments/assets/d8e9252a-c333-4f89-b630-cc06f535ac51
+
+
+
 ## Installation
 
 1. Clone the repository:
